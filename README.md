@@ -8,13 +8,13 @@
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/6RpEJda) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/plaunchteam?color=blue&style=flat-square)](https://twitter.com/PLaunchTeam)
 ---------
-* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher!
+* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher–CN!
 
-* PojavLauncher is a launcher that allows you to play Minecraft:Java Edition on your Android device!
+* PojavLauncher–CN is a launcher that allows you to play Minecraft:Java Edition on your Android device!
 
 * It can run almost every version of the Minecraft, allowing you to use .jar only installers to install modloaders like [forge](https://files.minecraftforge.net/), [fabric](http://fabricmc.net/), [optifine](https://optifine.net); Utility and hack clients like [LabyMod](https://www.labymod.net/en), [Wurst](https://www.wurstclient.net/) and much more!
 
-* For more details [check out our wiki](https://github.com/PojavLauncherTeam/PojavLauncher/wiki)
+* For more details [check out our wiki](https://github.com/)
 
 ## Navigation
 - [Introduction](#introduction)  
@@ -26,11 +26,10 @@
 - [Credits & Third party components and their licenses](#credits--third-party-components-and-their-licenses-if-available)
 
 ## Introduction 
-* PojavLauncher is a Minecraft: Java Edition launcher for Android based on [Boardwalk](https://github.com/zhuowei/Boardwalk). 
-* This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.19 snapshots (including Combat Test versions). 
+* PojavLauncher–CN is a Minecraft: Java Edition launcher for Android based on [Boardwalk](https://github.com/zhuowei/Boardwalk). 
+* This launcher–CN can launch almost all available Minecraft versions ranging from rd-132211 to 1.19 snapshots (including Combat Test versions). 
 * Modding via Forge and Fabric are also supported. 
 * This repository contains source code for Android. 
-* For iOS/iPadOS, check out [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS).
 
 ## Getting PojavLauncher
 
