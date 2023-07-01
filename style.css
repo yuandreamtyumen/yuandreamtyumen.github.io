@@ -62,3 +62,8 @@ footer {
   border-radius: 50%; /* 设置圆形边框 */
   margin-right: 10px; /* 设置头像图片和文本之间的右侧间距 */
 }
+
+.link {
+  text-decoration: none;
+  color: #007bff;
+}
